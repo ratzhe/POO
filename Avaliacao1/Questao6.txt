@@ -1,0 +1,20 @@
+6	– Defina Encapsulamento, Herança, Abstração e fale qual a diferença entre
+ eles, e quais as vantagens proporcionadas com a sua utilização.(0,25).
+•	Encapsulamento: proteção de métodos e atributos de uma classe Java, permitindo
+o acesso apenas pelos métodos públicos e métodos especiais (get, set) possam ser acessados.
+Vantagens: torna as mudanças invisíveis; facilita a reutilização do códigos; flexibilidade 
+de modificação.
+
+•	Herança: permite a criação de classes baseadas em outras já existentes. 
+Vantagens: reutilização de código (as subclasses herdam todos os atributos e/ou 
+métodos da superclasse); maior organização do programa.
+•	Abstração: é a definição dos dados da classe no mundo palpável. Exemplo:
+ao criar a classe Carro, é possível perceber atributos como cor, marca, modelo, 
+ano e acelerar, parar e freiar como métodos. 
+Vantagens: momento de maior aproximação das linhas de código ao mundo real; 
+possibilidade de observar na prática a orientação a objetos. 
+A diferença entre Encapsulamento,  Abstração e Herança se estabelece, basicamente,
+considerando que o primeiro significa a representação interna do objeto que está 
+oculta fora do mesmo; já o segundo consiste na representação de parâmetros essenciais
+do objeto e, por último, a herança baseiasse na utilização de métodos e atributos já 
+usados anteriormente.

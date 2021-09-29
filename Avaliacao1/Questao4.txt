@@ -1,0 +1,11 @@
+4	– Fale sobre os os controladores de Visibilidade private, public e qual
+sua relação com o encapsulamento (0,25). 
+Os controladores de visibilidade indicam o nível de acesso dos atributos e métodos
+dentro de uma classe. 
+•	public: todas as classes do programa possuem acesso ao método ou atributo;
+•	private: apenas a classe atual possui acesso;
+O encapsulamento serve para separar partes do programa, visando a flexibilização
+de mudanças no software. Desse modo, o   uso de modificadores de visibilidade, que
+determina o grau de interação entre os recursos, relaciona-se ao encapsulamento
+pois permite a segregação de dados, separar interface de implementação e especificar
+o modo de uso da classe.   

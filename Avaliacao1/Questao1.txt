@@ -1,0 +1,7 @@
+1	– Explique a relação entre Classes e Objetos, informando também o que 
+define o comportamento e o estado que os objetos podem realizar e assumir (0,5).
+
+As classes podem ser entendidas como os moldes dos objetos, sendo as responsáveis
+por modelar/classificar o objeto. Os comportamentos são as características do 
+objeto e os estados são definidos como as características identificadas a partir
+dos atributos (comportamentos).

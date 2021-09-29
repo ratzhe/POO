@@ -1,0 +1,3 @@
+5	– Descreva todos os passos da criação a execução de uma classe java. (0,25).
+Criação do código-fonte (.java) -> compilador (javac) -> criação do executável – bytecode
+(.class) -> leitura pelo sistema operacional (linguagem multiplataforma). 
