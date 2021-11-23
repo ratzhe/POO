@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+<!-- -->
+<!-- Free software (c) 2011 ALICE A.I. Foundation.   -->
+<!-- This program is open source code released under -->
+<!-- the terms of the GNU General Public License     -->
+<!-- as published by the Free Software Foundation.   -->
+<!-- Complies with AIML 1.0 Tag Set Specification -->
+<!-- as adopted by the ALICE A.I. Foundation.  -->
+<!-- Last modified 11/23/2011 -->
+<!-- -->
+
+<category><pattern>* MONET</pattern>
+<template>Nome: Oscar-Claude Monet / Periodo: Impressionismo / Obras: Mulher com sombrinha (1872), Campo de papoulas (1873), A lagoa de lirios d'agua (1899).</template>
+</category>
+
+<category><pattern>* GOGH</pattern>
+<template>Nome: Vincent Willen van Gogh / Periodo: Impressionismo / Obras: A noite estrelada (1889), Amendoeira em flor (1890), A casa amarela (1888).</template>
+</category>
+
+<category><pattern>* PICASSO</pattern>
+<template>Nome: Pablo Ruiz Picasso / Periodo: Cubismo / Obras: A mulher que chora (1937), Guermica (1937), Les demoiselles d'Avignon (1907).</template>
+</category>
+
+<category><pattern>SALVADOR *</pattern>
+<template>Nome: Salvador Dali i Domenech / Periodo: Surrealismo / Obras: A persistencia da memória (1931), Metamorfose de Narciso (1937), Telefone-lagosta (1936).</template>
+</category>
+
+<category><pattern>* MAGRITTE</pattern>
+<template>Nome: Rene Francois Ghislain Magritte / Periodo: Surrealismo / Obras: O filho do homem (1929), Golconda (1953), O espelho falso (1928).</template>
+</category>
+
+<category><pattern>* VINCI</pattern>
+<template>Nome: Leonardo di Ser Piero da Vinci / Periodo: Renascimento / Obras: Mona Lisa (1503), A ultima ceia (1498), Salvator Mundi (1500).</template>
+</category>
+
+<category><pattern>* BOTTICELLI</pattern>
+<template>Nome: Sandro Botticelli / Periodo: Renascimento / Obras: O nascimento de Venus (1486), A primavera (1482), A adoracao dos magos (1476).</template>
+</category>
+
+<category><pattern>FRIDA *</pattern>
+<template>Nome: Frida Kahlo / Periodo: Arte moderna / Obras: As duas Fridas (1939), Sem esperanca (1945), Hospital Henry Ford (1932).</template>
+</category>
+
+<category><pattern>TARSILA *</pattern>
+<template>Nome: Tarsila de Aguiar do Amaral / Periodo: Pos-impressionismo / Obras: Abaporu (1928), Operarios (1933), O pescador (1925).</template>
+</category>
+
+<category><pattern>* PORTINARI</pattern>
+<template>Nome: Candido Portinari / Periodo: Arte moderna / Obras: O lavrador de cafe (1934), Os retirantes (1944), Descoberta da Terra (1941).</template>
+</category>
+
+</aiml>
